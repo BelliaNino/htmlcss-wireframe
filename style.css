@@ -2,8 +2,13 @@
    margin: 0;
    padding: 0;}
 
+   header {
+    padding: 1rem;
+   }
+
    body {
     width: 512px;
+    border: 2px solid black
     
    }
 
@@ -15,5 +20,13 @@
     border:2px solid black;
     margin: 1rem;
     padding: 1rem; width: auto; height: 100;
+    margin-left: 2rem;
+    margin-right: 2rem;
     background-color: lightgrey;
+   }
+
+   .line {
+    height: 2px;
+    background-color: black;
+
    }
