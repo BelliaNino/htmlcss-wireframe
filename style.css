@@ -1,0 +1,19 @@
+* {
+   margin: 0;
+   padding: 0;}
+
+   body {
+    width: 512px;
+    
+   }
+
+   main {
+    background-color: rgb(202, 201, 249);
+   }
+
+   .card {
+    border:2px solid black;
+    margin: 1rem;
+    padding: 1rem; width: auto; height: 100;
+    background-color: lightgrey;
+   }
