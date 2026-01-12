@@ -4,29 +4,37 @@
 
    header {
     padding: 1rem;
+    background-color: antiquewhite;
    }
 
    body {
     width: 512px;
-    border: 2px solid black
-    
+    margin: auto; 
    }
 
    main {
-    background-color: rgb(202, 201, 249);
+    background-color: rgb(144, 187, 190);
    }
 
    .card {
     border:2px solid black;
     margin: 1rem;
-    padding: 1rem; width: auto; height: 100;
+    padding: 1rem; 
     margin-left: 2rem;
     margin-right: 2rem;
-    background-color: lightgrey;
+    background-color: antiquewhite;
+    min-height: 100px;
    }
 
    .line {
     height: 2px;
     background-color: black;
-
    }
+
+   footer {
+    margin: 0.5rem;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0.5rem
+   }
+   
